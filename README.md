@@ -44,9 +44,17 @@ Es común en muchos repositorios open source el uso de badges o escudos para dar
 
 ## Descripción y contexto
 ---
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Es la primera parte del curso HTML, impartido por Juan diaz en Pildoras Informaticas,
-EL curso esta compuesto por 78 video tutoriales. 
+Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Es la parte de HTML-CSS-JS-GIT del programa ONE-ORACLE GNERACION 6, impartido Alura Latam,
+EL curso esta compuesto por 7 cursos con tiempo estimado de trabajo de 62 horas
 Los siguientes titulos son los que contiene este proyecto:
+
+- Lógica de programación: sumérgete en la programación con JavaScript 
+- Lógica de programación: explorar funciones y listas 
+- HTML5 y CSS3 parte 1: Mi primera página web
+- HTML5 y CSS3 parte 2: Posicionamiento, listas y navegación
+- HTML5 y CSS3 parte 3: Trabajando con formularios y tablas
+- HTML5 y CSS3 parte 4: Avanzando en CSS 
+- Git y GitHub: repositorio, commit y versiones 
 
 
 
